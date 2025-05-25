@@ -8,7 +8,7 @@
 
 - 📸  **Live Demo**
  
-[🔗 View Deployed Site](https://your-netlify-link.netlify.app)  
+[🔗 View Deployed Site](https://emptycups.netlify.app)  
 
 
 ---
